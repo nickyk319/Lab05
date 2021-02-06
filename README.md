@@ -8,9 +8,11 @@ We encourage you to use either IntelliJ IDE or maven from command line in order 
 
 ## Existing Classes ##
 
-[Calculator.java](https://github.com/SOEN487/Lab04/blob/main/src/main/java/com/example/soap/service/Calculator.java)
+1. **[ServicePublisher](src/main/java/com/example/soap/endpoint/ServicePublisher.java)** class that publishes the generated WSDL file on an http server.
 
-[CalculatorImpl.java](https://github.com/SOEN487/Lab04/blob/main/src/main/java/com/example/soap/service/CalculatorImpl.java)
+2. **[Calculator](src/main/java/com/example/soap/service/Calculator.java)** Base class similar to HelloWorld in T04
+
+3. **[CalculatorImpl](src/main/java/com/example/soap/service/CalculatorImpl.java)** Base class similar to HelloWorldImpl in T04
 
 Note: You will need to replace the sayHelloWorld and add the methods that are provided in your Lab instructions.
 
