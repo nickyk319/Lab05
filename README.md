@@ -9,6 +9,7 @@ We encourage you to use either IntelliJ IDE or maven from command line in order 
 ## Existing Classes ##
 
 [Calculator.java](https://github.com/SOEN487/Lab04/blob/main/src/main/java/com/example/soap/service/Calculator.java)
+
 [CalculatorImpl.java](https://github.com/SOEN487/Lab04/blob/main/src/main/java/com/example/soap/service/CalculatorImpl.java)
 
 Note: You will need to replace the sayHelloWorld and add the methods that are provided in your Lab instructions.
