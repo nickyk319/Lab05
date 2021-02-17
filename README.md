@@ -1,8 +1,8 @@
-# Lab04 - SOEN 487 #
+# Lab05 - SOEN 487 #
 
-This is the Lab template for [Tutorial 4](https://github.com/SOEN487/T04).
+This is the Lab template for [Tutorial 5](https://github.com/SOEN487/T05).
 
-You should watch the video for Tutorial 4 and clone [Tutorial 4](https://github.com/SOEN487/T04) before starting the lab. 
+You should watch the video for Tutorial 5 and clone [Tutorial 5](https://github.com/SOEN487/T05) before starting the lab. 
 
 We encourage you to use either IntelliJ IDE or maven from command line in order to get the best support from our TAs.
 
@@ -10,9 +10,9 @@ We encourage you to use either IntelliJ IDE or maven from command line in order 
 
 1. **[ServicePublisher](src/main/java/com/example/soap/endpoint/ServicePublisher.java)** class that publishes the generated WSDL file on an http server.
 
-2. **[Calculator](src/main/java/com/example/soap/service/Calculator.java)** Base class similar to HelloWorld in T04
+2. **[Calculator](src/main/java/com/example/soap/service/Customer.java)** Base class similar to HelloWorld in T05
 
-3. **[CalculatorImpl](src/main/java/com/example/soap/service/CalculatorImpl.java)** Base class similar to HelloWorldImpl in T04
+3. **[CalculatorImpl](src/main/java/com/example/soap/service/CustomerImpl.java)** Base class similar to HelloWorldImpl in T05
 
 Note: You will need to replace the sayHelloWorld and add the methods that are provided in your Lab instructions.
 

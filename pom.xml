@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example.soap</groupId>
-    <artifactId>T04</artifactId>
+    <artifactId>T05</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>lab04</name>
