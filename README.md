@@ -10,9 +10,9 @@ We encourage you to use either IntelliJ IDE or maven from command line in order 
 
 1. **[ServicePublisher](src/main/java/com/example/soap/endpoint/ServicePublisher.java)** class that publishes the generated WSDL file on an http server.
 
-2. **[Calculator](src/main/java/com/example/soap/service/Customer.java)** Base class similar to HelloWorld in T05
+2. **[Customer](src/main/java/com/example/soap/service/Customer.java)** Base class similar to HelloWorld in T05
 
-3. **[CalculatorImpl](src/main/java/com/example/soap/service/CustomerImpl.java)** Base class similar to HelloWorldImpl in T05
+3. **[CustomerImpl](src/main/java/com/example/soap/service/CustomerImpl.java)** Base class similar to HelloWorldImpl in T05
 
 Note: You will need to replace the sayHelloWorld and add the methods that are provided in your Lab instructions.
 
